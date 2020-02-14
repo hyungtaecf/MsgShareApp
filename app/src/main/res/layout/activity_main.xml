@@ -34,14 +34,12 @@
         android:layout_centerInParent="true"
         android:text="Button"/>
 
-    <TextView
-        android:id="@+id/txvTest"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/btnShareToOtherApps"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/btnSendMsgNextActivity"
-        android:layout_marginTop="50dp"
-        android:layout_centerHorizontal="true"
-        android:text="Test" />
+        android:layout_below="@+id/btnSendMsgNextActivity"
+        android:text="Share to other apps" />
 
 
 </android.widget.RelativeLayout>
