@@ -41,5 +41,12 @@
         android:layout_below="@+id/btnSendMsgNextActivity"
         android:text="Share to other apps" />
 
+    <Button
+        android:id="@+id/btnRecyclerViewDemo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnShareToOtherApps"
+        android:text="RecyclerView Demo" />
+
 
 </android.widget.RelativeLayout>
