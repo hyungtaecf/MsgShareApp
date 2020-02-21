@@ -1,11 +1,11 @@
 # MsgShareApp
 Studying Android Studio using Kotlin
 
-This is a message sharing application that share messages via app to Facebook, WhatsApp, Gmail etc.
+This is a message sharing application that shares messages via app to Facebook, WhatsApp, Gmail, etc.
 It was made following <a href="https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV">this</a> tutorial on Youtube.
 
 Studied Contents through this project:
-- Exploring Activity, User Interface and Views
+- Exploring Activity, User Interface, and Views
 - Designing Layouts (User Interface) and Handle button click events
 - Using Explicit Intent to navigate between Activities and exploring Toast message
 - Sharing Data between Activities using Explicit Intent
