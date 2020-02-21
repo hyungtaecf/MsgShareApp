@@ -25,7 +25,7 @@ Studied Contents through this project:
 - Creating Launcher Icons using Image Asset Studio Manager in Kotlin
 - Applying Material Design Colors to the App.
 - Applying Material Design Themes to the App
-- Creating Developer Account
+- Creating a Developer Account
 - Signing up for Google Play Developer Console
 - Exporting Signed APK in Android Studio
 - Publishing the Android App to Google Play store using Developer Console
